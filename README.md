@@ -1,2 +1,2 @@
 # jenkins_django
-hi
+Hello
